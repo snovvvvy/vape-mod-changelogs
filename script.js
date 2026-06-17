@@ -83,6 +83,27 @@ const changelogs = {
                         ]
                     }
                 ]
+            },
+
+            {
+                version: "v1.2: Raise a Floppa 2",
+                date: "2026-06-17",
+                categories: [
+                    {
+                        name: "Fixes and changes and improvements and modifications and adjustments and revisions and stuff",
+                        items: [
+                            "LandLord now supports the Rich Roommate",
+                            "Improved Collection Service tagging for pickup items",
+                        ]
+                    },
+                    {
+                        name: "Minigames",
+                        items: [
+                            "Added AutoCollectGold",
+                            "Added AutoCollectMeteorites",
+                        ]
+                    }
+                ]
             }
         ]
     },
