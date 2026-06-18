@@ -104,6 +104,25 @@ const changelogs = {
                         ]
                     }
                 ]
+            },
+            {
+                version: "v1.3: Raise a Floppa 2",
+                date: "2026-06-17",
+                categories: [
+                    {
+                        name: "Fixes and changes and improvements and modifications and adjustments and revisions and stuff",
+                        items: [
+                            "Fixed RoommateDialogue",
+                            "Optimized AutoCollectGold",
+                        ]
+                    },
+                    {
+                        name: "Minigames",
+                        items: [
+                            "Added RichRoommateDialogue (like RoommateDialogue but supports Rich Roommate)",
+                        ]
+                    }
+                ]
             }
         ]
     },
