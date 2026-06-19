@@ -123,6 +123,19 @@ const changelogs = {
                         ]
                     }
                 ]
+            },
+            {
+                version: "v1.4: Raise a Floppa 2",
+                date: "2026-06-18",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added FloppaGunners (you can customize the looks of your floppa gunners, if you have any)",
+                            "Added PickupTP (teleports to any pickup) [BETA]"
+                        ]
+                    }
+                ]
             }
         ]
     },
