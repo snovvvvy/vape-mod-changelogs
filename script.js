@@ -136,6 +136,25 @@ const changelogs = {
                         ]
                     }
                 ]
+            },
+            {
+                version: "v1.5: PARRY!!",
+                date: "2026-06-22",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added AutoParry (option to enable perfect parry)",
+                            "Added SpoofWeapon (spoofs weapon animation)"
+                        ]
+                    },
+                    {
+                        name: "World",
+                        items: [
+                            "Added DisableEffects [BETA] (attemps to destroy game effects)",
+                        ]
+                    }
+                ]
             }
         ]
     },
