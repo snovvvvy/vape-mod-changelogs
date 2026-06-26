@@ -165,7 +165,8 @@ const changelogs = {
                         items: [
                             "Added AutoParry Update Rate (higher upd rate = faster autoparry)",
                             "Added AutoParry Mech Support (supports parrying with the mech in techno map)",
-                            "Added Hitboxes (expands enemy hitboxes)"
+                            "Added Hitboxes (expands enemy hitboxes)",
+                            "Fixed AutoParry Perfect Parry not working"
                         ]
                     },
                     {
