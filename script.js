@@ -176,6 +176,24 @@ const changelogs = {
                         ]
                     },
                 ]
+            },
+            {
+                version: "v1.7: PARRY!!",
+                date: "2026-06-26",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added AutoOverCharge (if you have the overcharge upgrade, it will automatically fill the bar)",
+                        ]
+                    },
+                    {
+                        name: "World",
+                        items: [
+                            "Added NewSong (change the background music to a song of your choice, like stadium rave!)",
+                        ]
+                    },
+                ]
             }
         ]
     },
