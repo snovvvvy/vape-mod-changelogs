@@ -168,6 +168,12 @@ const changelogs = {
                             "Added Hitboxes (expands enemy hitboxes)"
                         ]
                     },
+                    {
+                        name: "More",
+                        items: [
+                            "Added anticheat bypass (credits to koya)",
+                        ]
+                    },
                 ]
             }
         ]
