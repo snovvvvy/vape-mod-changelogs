@@ -155,6 +155,20 @@ const changelogs = {
                         ]
                     }
                 ]
+            },
+            {
+                version: "v1.6: PARRY!!",
+                date: "2026-06-25",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added AutoParry Update Rate (higher upd rate = faster autoparry)",
+                            "Added AutoParry Mech Support (supports parrying with the mech in techno map)",
+                            "Added Hitboxes (expands enemy hitboxes)"
+                        ]
+                    },
+                ]
             }
         ]
     },
