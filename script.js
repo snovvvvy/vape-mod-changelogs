@@ -196,7 +196,7 @@ const changelogs = {
                 ]
             },
             {
-                version: "v1.8: PARRY!! [LATEST]",
+                version: "v1.8: PARRY!!",
                 date: "2026-06-26",
                 categories: [
                     {
@@ -211,6 +211,26 @@ const changelogs = {
                         name: "Other",
                         items: [
                             "Improved enemy tagging",
+                        ]
+                    },
+                ]
+            },
+            {
+                version: "v1.9: PARRY!! [LATEST]",
+                date: "2026-06-27",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added DisableEventsAllowed (disable slit vision and jumpscares while still having the modifier)",
+                            "AutoTeleport now attacks the enemy too",
+                        ]
+                    },
+                    {
+                        name: "Other",
+                        items: [
+                            "Rewrote the collection service bootstrapper (its much more cleaner)",
+                            "Fixed AutoTeleport crashing"
                         ]
                     },
                 ]
