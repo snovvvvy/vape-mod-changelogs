@@ -194,6 +194,26 @@ const changelogs = {
                         ]
                     },
                 ]
+            },
+            {
+                version: "v1.8: PARRY!! [LATEST]",
+                date: "2026-06-26",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added HipHeight (edit all enemies hipheight)",
+                            "Added AutoTeleport (automatically teleports behind enemies)",
+                            "Added HitBoxes Expand Y option (you can expand the y level of the enemy hitboxes if you want)"
+                        ]
+                    },
+                    {
+                        name: "Other",
+                        items: [
+                            "Improved enemy tagging",
+                        ]
+                    },
+                ]
             }
         ]
     },
