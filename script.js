@@ -216,7 +216,7 @@ const changelogs = {
                 ]
             },
             {
-                version: "v1.9: PARRY!! [LATEST]",
+                version: "v1.9: PARRY!!",
                 date: "2026-06-27",
                 categories: [
                     {
@@ -231,6 +231,28 @@ const changelogs = {
                         items: [
                             "Rewrote the collection service bootstrapper (its much more cleaner)",
                             "Fixed AutoTeleport crashing"
+                        ]
+                    },
+                ]
+            },
+            {
+                version: "v2: The Battle Bricks [LATEST]",
+                date: "2026-06-29",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Added AutoBank (automatically buys bank upgrades)",
+                            "Added AutoBankPriority",
+                            "Added AutoCannon (automatically fires the cannon)",
+                            "Added AutoUnit (automatically spawns units)",
+                        ]
+                    },
+                    {
+                        name: "Render",
+                        items: [
+                            "Added DPSDisplay (shows how much dps your units have)",
+                            "Added HealthBars (shows how much hp your units have)"
                         ]
                     },
                 ]
