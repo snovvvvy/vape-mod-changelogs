@@ -236,7 +236,7 @@ const changelogs = {
                 ]
             },
             {
-                version: "v2: The Battle Bricks [LATEST]",
+                version: "v2: The Battle Bricks",
                 date: "2026-06-29",
                 categories: [
                     {
@@ -253,6 +253,26 @@ const changelogs = {
                         items: [
                             "Added DPSDisplay (shows how much dps your units have)",
                             "Added HealthBars (shows how much hp your units have)"
+                        ]
+                    },
+                ]
+            },
+            {
+                version: "v2.1: PARRY!! [LATEST]",
+                date: "2026-07-3",
+                categories: [
+                    {
+                        name: "Blatant",
+                        items: [
+                            "Renamed AutoTeleport to AutoWin",
+                            "Added AntiHazard (creates parts over hazards)",
+                            "Cleaned up AutoParry code",
+                        ]
+                    },
+                    {
+                        name: "Render",
+                        items: [
+                            "Added DisableSugarcoatGui (disables annoying gui when u perfect parry)",
                         ]
                     },
                 ]
