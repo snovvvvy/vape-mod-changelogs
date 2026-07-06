@@ -291,7 +291,8 @@ const changelogs = {
                         name: "Other",
                         items: [
                             "Migrated to vape bundler (i will be using vape bundler but repository structure will stay the same)",
-                            "Reverted some changes to the xylex ones"
+                            "Reverted some changes to the xylex ones",
+                            "You can no longer have early access to WIP modules"
                         ]
                     },
                 ]
