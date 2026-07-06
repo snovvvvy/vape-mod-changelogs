@@ -258,7 +258,7 @@ const changelogs = {
                 ]
             },
             {
-                version: "v2.1: PARRY!! [LATEST]",
+                version: "v2.1: PARRY!!",
                 date: "2026-07-3",
                 categories: [
                     {
@@ -273,6 +273,25 @@ const changelogs = {
                         name: "Render",
                         items: [
                             "Added DisableSugarcoatGui (disables annoying gui when u perfect parry)",
+                        ]
+                    },
+                ]
+            },
+            {
+                version: "v2.1: some changes [NEW]",
+                date: "2026-07-6",
+                categories: [
+                    {
+                        name: "PARRY!!",
+                        items: [
+                            "Moved DisableEventsAllowed to render",
+                        ]
+                    },
+                    {
+                        name: "Other",
+                        items: [
+                            "Migrated to vape bundler (i will be using vape bundler but repository structure will stay the same)",
+                            "Reverted some changes to the xylex ones"
                         ]
                     },
                 ]
