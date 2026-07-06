@@ -278,7 +278,7 @@ const changelogs = {
                 ]
             },
             {
-                version: "v2.1: some changes [NEW]",
+                version: "v2.2: some changes [NEW]",
                 date: "2026-07-6",
                 categories: [
                     {
