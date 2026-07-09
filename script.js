@@ -153,7 +153,6 @@ const changelogs = {
                     ]
                 }
             },
-
             {
                 version: "1.7",
                 game: "PARRY!!",
@@ -243,7 +242,6 @@ const changelogs = {
                     ]
                 }
             },
-
             {
                 version: "2.2",
                 game: "PARRY!!",
@@ -258,6 +256,37 @@ const changelogs = {
                         "Migrated to Vape Bundler (repository structure remains the same)",
                         "Reverted some changes to the Xylex ones",
                         "Removed early access to WIP modules"
+                    ]
+                }
+            },
+            {
+                version: "2.3",
+                game: "BIGGG UPDATE!!! 3 NEW GAMES!",
+                date: "2026-07-09",
+
+                changes: {
+                    Funky_Friday: [
+                        "Added AutoPlayer"
+                    ],
+                    Blood_Sweats_And_Pixels: [
+                        "Added AntiDeath",
+                        "Fixed chams not working",
+                    ],
+                    Infectious_Smile: [
+                        "Added Antihazard",
+                        "Added AntiInfect",
+                        "Added AntiStun",
+                        "Added AutoInfect",
+                        "Added AutoReset",
+                        "Added Reach (supports grab)",
+                        "Added NoWeaponCooldown (supports grab)",
+                    ],
+                    Skywars: [
+                        "Added AutoWin"
+                    ],
+                    Other: [
+                        "now using customvape folder instead of newvape folder",
+                        "Added twoslider negative numbers support"
                     ]
                 }
             }
